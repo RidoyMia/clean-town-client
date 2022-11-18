@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "1",
+        "name": "Water Pollution",
+        "picture": "https://i.ibb.co/9r7D4LC/water.jpg",
+        "description": "Water pollution is the contamination of water bodies, usually by littering, so that it negatively affects its use. Water bodies include lakes, rivers, oceans, reservoirs, reservoirs and groundwater. Contaminant entering these water bodies causes water pollution.",
+        "remedy": "Hand the garbage to the cleaners instead of throwing it in the water. Feeding cows and goats without bathing them in water. Using organic fertilizers instead of chemical fertilizers in agriculture or reducing the use of fertilizers. Purification of polluted industrial effluents in water. Using sanitary latrines instead of constructing open latrines by ponds or rivers."
+    },
+    {
+        "_id": "2",
+        "name": "Air Pollution",
+        "picture": "https://i.ibb.co/nQJycZk/air.webp",
+        "description": "Air pollution has serious effects on the body. Air pollution can cause various diseases. Among which various lung diseases are one. In addition, air pollution has harmful effects on the kidneys. Air pollution can even be one of the causes of blood pressure, damage to reproductive health, eye and lung problems, cancer and heart disease. Most of the non-communicable diseases that kill people worldwide are caused by air pollution. According to the World Health Organization, 4.2 million people die prematurely every year due to air pollution worldwide. According to a recent study, the average life expectancy of Bangladeshis has decreased by 7 years due to air pollution.",
+        "remedy": "Dispose of garbage without littering. Placing the brick kiln away from the locality. Inventing advanced technologies that use less fuel Avoid smoking, especially around other people or in enclosed spaces. Creating good ventilation in the kitchen. Using a cold stove. Conservation of grasslands. Creating new forests by planting trees."
+    },
+    {
+        "_id": "3",
+        "name": "Dengue Fiver",
+        "picture": "https://i.ibb.co/2MK54Jz/gangue.jpg",
+        "description": "Garbage piles are lying unprotected next to the house. Aedes mosquito, the carrier of dengue disease, is born due to the accumulation of water there. Aedes mosquitoes are also born in the water that is scattered on both sides of the road and in the water collected in the shells of cans. On the other hand, Aedes mosquitoes are born when there is a suitable environment, starting from tree tubs in homes to roads or residential areas. But there are no proper measures to prevent the breeding of Aedes mosquitoes. People are more affected by dengue during the rainy season than the whole year. At this time, rainwater accumulates in various places, creating an environment for the breeding of Aedes mosquitoes. Unplanned urbanization, people's ignorance have created a suitable environment for the breeding of dengue-carrying Aedes mosquitoes everywhere, including in Dhaka.",
+        "remedy": "When someone is infected with a form of dengue, the body develops immunity against the virus. But that does not mean that the patient will not get dengue again. Rather, he may be infected with stronger forms of dengue this time. Then complications like hemorrhagic fever or shock syndrome may occur. There is even a chance of re-infection from a stronger variant of dengue during the second, third or fourth time."
+    },
+    {
+        "_id": "4",
+        "name": "Stench",
+        "picture": "https://i.ibb.co/bLgqZrQ/stench1.jpg",
+        "description": "Allergy, cough, asthma, bronchitis, high blood pressure, headache, lung cancer etc. can cause serious diseases in the human body due to polluted air. In general, if the air pollution increases, the place becomes uninhabitable. Therefore, air pollution causes severe damage to human health and environment.According to a report published by the World Bank, Bangladesh is one of the countries most affected by pollution and environmental hazards. 28 percent of all deaths in Bangladesh every year are due to illnesses caused by environmental pollution. But the global average for such deaths is only 16 percent.",
+        "remedy": "Usually refers to actions related to unnecessary objects created by human activity; Actions to mitigate adverse health effects from those substances, or to preserve the beauty of the environment, are included in this process. Besides, the work of preventing the damage to the environment from the garbage and the extraction of recyclable materials from the garbage are also done through waste management. It deals with solid, liquid or gaseous wastes by different methods and skills."
+    },
+    {
+        "_id": "5",
+        "name": "Agriculture Field Pollution",
+        "picture": "https://i.ibb.co/c8tYRgz/field.jpg",
+        "description": "The three most important elements of the environment are soil, water and air and these elements are essential for the survival of animals. But now the soil is being polluted in various ways. When the concentration of surface pollutants becomes so high that it harms soil biodiversity and harms health especially through food, we call it soil pollution. Various chemical pesticides and fertilizers widely used in agriculture are accelerating soil pollution. These chemicals used in the factories pollute the land in the area to such an extent that the soil there becomes unsuitable for planting trees. This waste gets mixed with the water layer through infiltration and when that water is extracted - by re-using it, people are suffering in various ways.",
+        "remedy": "There are many reasons for soil pollution today. One of the main reasons is the use of pesticides on agricultural land. Most of the rural land in Bangladesh is directly related to agriculture. As a result, chemical fertilizers have to be resorted to to produce additional crops to meet the food needs of this large population. As a result, on the one hand, soil pollution is occurring, on the other hand, harmful chemicals enter our body through food and cause various problems. Today, another terrible cause of soil pollution is the harmful waste from factories - which poisons the nature. These chemicals used in the factories pollute the land in the area to such an extent that the soil there becomes unsuitable for planting trees. This waste gets mixed with the water layer through infiltration and when that water is extracted - by re-using it, people are suffering in various ways."
+    },
+    {
+        "_id": "6",
+        "name": "Influenza",
+        "picture": "https://i.ibb.co/BVSm2Np/influenza.jpg",
+        "description": "Influenza is a viral infectious disease that attacks various parts of our respiratory system such as nose, throat and lungs. Influenza is commonly called “Flu”. But our body has another type of flu in the stomach which causes diarrhea or vomiting. And so the stomach flu and the respiratory flu are not the same. Most people who get the flu get better on their own. But sometimes the flu and its complications can be fatal.",
+        "remedy": "According to the American research organization CDC (Center for Disease Control and Prevention), everyone aged 6 months and older should get the annual flu vaccine. Each year's seasonal flu vaccine protects against three to four of the most common strains of that year's influenza virus."
+    }
+]

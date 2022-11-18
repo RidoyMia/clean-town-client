@@ -1,0 +1,32 @@
+.link{
+    text-decoration: none;
+    margin-left: 20px;
+    color:white;
+    font-size: 20px;
+}
+.navigation-container{
+    background-color:rgb(26, 175, 6);
+    box-shadow: 1px 1px 3px gray;
+}
+.bottom-container{
+    margin-bottom: 200px;
+    color: gold;
+}
+.email-btn{
+    
+    border: none;
+    color: black;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+.logout-btn{
+    background-color: #198754;
+    border: none;
+    color: rgb(239, 28, 28);
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
